@@ -1,7 +1,7 @@
-# Gifted-Session-Generator
+# Tech-md-Session-Generator
 - Fork, Star and Edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
-- This is what I use in my **[Session Site](https://pairing.giftedtech.web.id)** so don't ask for more...
+- This is what I use in my **[Session Site](https://techmd.pairing.id)** so don't ask for more...
 
 <details>
 <summary>SAMPLE USAGE IN BOT</summary>
@@ -124,6 +124,6 @@ const Gifted = GiftedConnect({
 [`HERE'S AN EXAMPLE OUTPUT`](https://pairing.giftedtech.web.id)
 # `Owner`
 
- <a href="https://github.com/mauricegift"><img src="https://github.com/mauricegift.png" width="250" height="250" alt="Gifted Tech"/></a>
+ <a href="https://github.com/mauricegift"><img src="[https://github.com/mauricegift.png](https://ibb.co/xKGJqHBQ)" width="250" height="250" alt="Tech-md"/></a>
 
    
